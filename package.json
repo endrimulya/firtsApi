@@ -1,0 +1,16 @@
+{
+  "name": "wht",
+  "version": "1.0.0",
+  "description": "this is the pakage.json",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index.js"
+  },
+  "author": "endri",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "keywords": []
+}
